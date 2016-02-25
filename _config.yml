@@ -1,0 +1,28 @@
+name: paulzase
+favicon: null
+layout_spectrum: 0.14171159453690052
+typography_spectrum: 0.6350357127375901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8517882293090224
+  lightness: 0.6821510575246066
+  saturation: 0.05782416043803096
+  rhythmicContrast: 0.6537836997304112
+purpose: []
